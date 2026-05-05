@@ -1,0 +1,8 @@
+torch
+torch-hd
+numpy
+scikit-learn
+aeon
+matplotlib
+pandas
+tqdm

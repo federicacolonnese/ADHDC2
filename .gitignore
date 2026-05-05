@@ -1,0 +1,10 @@
+**/__pycache__/
+**/*env/
+.idea/
+hv_processed_data/
+src/registry/_ckpt_test/
+src/registry/checkpoints/
+raw_dataset/
+dataset_/
+data/
+.claude
